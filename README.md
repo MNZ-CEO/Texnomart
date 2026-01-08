@@ -7,7 +7,7 @@ This project is an educational clone inspired by Texnomart.  It is not affiliate
 ![](pictures/img_2.png)
 ![](pictures/img_3.png)
 ![](pictures/img_4.png)
-![](pictures/img_5.png)
+![](pictures/img_16.png)
 ![](pictures/img_6.png)
 ![](pictures/img_7.png)
 ![](pictures/img_8.png)
